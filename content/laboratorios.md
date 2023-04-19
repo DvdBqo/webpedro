@@ -15,11 +15,13 @@ Creemos firmemente que la diferenciación y la calidad de nuestros productos son
 En nuestro compromiso de ofrecer productos de calidad, trabajamos en constante evolución e investigación para ofrecer soluciones innovadoras en el mercado farmacéutico.
 
 
-![image](/img/banner-2.jpg)¡Confíe en Melhealthandpharm como su distribuidor farmacéutico de confianza con una selección cuidadosa de laboratorios y proveedores!
+![image](/img/logo(1).png){ .img-fluid .mx-auto .clase-css d-block}¡Confíe en Melhealthandpharm como su distribuidor farmacéutico de confianza con una selección cuidadosa de laboratorios y proveedores!
 
 
+<div>
 
-![image]()<img src= "/static/img/banner-2.jpg" alt="image" width="300" style="float:left; margin-right:10px;">
+<img src="img/banner-2.jpg" alt="Texto alternativo de la imagen" class="clase-css" style="width:50%; height:50%;">
+</div> 
 
 <img class="image" src="/img/logo.png" alt="Texto alternativo de la imagen"/>
 
@@ -30,11 +32,27 @@ En nuestro compromiso de ofrecer productos de calidad, trabajamos en constante e
 
 <img src="/banner-2.jpg" alt="Texto alternativo" width="500">
 
-+++
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nec dolor auctor, lacinia metus in, dapibus enim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pulvinar, quam eget mollis pretium, ante nulla varius enim, sit amet pulvinar velit velit non nibh. Sed luctus orci ut dolor bibendum, id vestibulum magna finibus.
+      </p>
+    </div>
+    <div class="col-md-4">
+      <img src="img/banner-2.jpg" alt="Texto alternativo de la imagen" class="img-fluid img-thumbnail float-right">
+    </div>
+  </div>
+</div>
 
-+++
-
-
+<div class="col-md-6 order-md-2">
+            <img src="/ruta/a/la/imagen.jpg" class="img-fluid" alt="Texto alternativo de la imagen">
+        </div>
+        <div class="col-md-6 order-md-1">
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis fringilla lectus non massa sodales, vel maximus massa bibendum. Proin at tortor quis sapien tristique malesuada nec quis nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed lobortis neque sit amet eleifend consequat.
+            </p>
+        </div>
 
 
 
