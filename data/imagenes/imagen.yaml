@@ -1,7 +1,6 @@
 
-imagenes:
 - ruta: /img/imagen/banner-1.jpg
-- texto: Aquí va el texto que acompaña a la imagen 1.
+  texto: Aquí va el texto que acompaña a la imagen 1.
 - ruta: /img/imagen/banner-3.jpg
-- texto: esto es tro texto
+  texto: esto es tro texto
 
