@@ -1,0 +1,25 @@
+<div class="container" id="lab">
+  <section>
+    <div class="row">
+      <div class="col-xs-12 col-sm-6">
+        <img src="{{ index .Params.imagenes 0 "ruta" }}" class="img-responsive" alt="Imagen 1">
+      </div>
+      <div class="col-xs-12 col-sm-6">
+        {{ .Content }}
+        {{ range $i, $imagen := .Params.imagenes }}
+        <div class="row">
+          <div class="col-xs-6">
+            <img src="{{ $imagen.ruta }}" class="img-responsive" alt="Imagen {{ if eq (mod (add $i 1) 2) 0 }}2{{ else }}{{ add $i 2 }}{{ end }}">
+            <p>{{ $imagen.texto }}</p>
+          </div>
+          {{ if mod (add $i 1) 2 | eq 0 }}
+          </div>
+        </div>
+        <div class="row">
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </section>
+</div>
+

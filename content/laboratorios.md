@@ -3,7 +3,8 @@ title = "Laboratorios"
 date = "2015-09-17T13:47:08+02:00"
 tags = [""]
 categories = [""]
-images = ['/img/']
+imagenes = []
+id = "lab"
 +++
 
 ## Laboratorios - Melhealthandpharm
@@ -23,7 +24,7 @@ En nuestro compromiso de ofrecer productos de calidad, trabajamos en constante e
 <img src="img/banner-2.jpg" alt="Texto alternativo de la imagen" class="clase-css" style="width:50%; height:50%;">
 </div> 
 
-<img class="image" src="/img/logo.png" alt="Texto alternativo de la imagen"/>
+<img class="image" src="/img/banner-2.jpg" alt="Texto alternativo de la imagen"/>
 
 
 <div class= "images" style= float:left; margin-right:100px;">
@@ -32,27 +33,7 @@ En nuestro compromiso de ofrecer productos de calidad, trabajamos en constante e
 
 <img src="/banner-2.jpg" alt="Texto alternativo" width="500">
 
-<div class="container">
-  <div class="row">
-    <div class="col-md-8">
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nec dolor auctor, lacinia metus in, dapibus enim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pulvinar, quam eget mollis pretium, ante nulla varius enim, sit amet pulvinar velit velit non nibh. Sed luctus orci ut dolor bibendum, id vestibulum magna finibus.
-      </p>
-    </div>
-    <div class="col-md-4">
-      <img src="img/banner-2.jpg" alt="Texto alternativo de la imagen" class="img-fluid img-thumbnail float-right">
-    </div>
-  </div>
-</div>
 
-<div class="col-md-6 order-md-2">
-            <img src="/ruta/a/la/imagen.jpg" class="img-fluid" alt="Texto alternativo de la imagen">
-        </div>
-        <div class="col-md-6 order-md-1">
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis fringilla lectus non massa sodales, vel maximus massa bibendum. Proin at tortor quis sapien tristique malesuada nec quis nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed lobortis neque sit amet eleifend consequat.
-            </p>
-        </div>
 
 
 
