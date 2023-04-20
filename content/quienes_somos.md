@@ -3,6 +3,8 @@ title = "Quines Somos"
 tags = [""]
 categories = [""]
 authors = ["David Baquero"]
+imagen1= "/img/mhp1.png"
+id = "qui"
 +++
 
 ## Melhealthandpharm: Distribuidor de productos y servicios farmacéuticos de alta calidad

@@ -86,7 +86,7 @@ pluralizelisttitles = false
 [params]
     viewMorePostLink = "/blog/"
     author = "Davi Baquero"
-    defaultKeywords = ["devcows", "hugo", "go"]
+    defaultKeywords = [""]
     mainSections = [""]
     defaultDescription = ""
 
@@ -96,11 +96,11 @@ pluralizelisttitles = false
     default_sharing_image = ""
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
-    enableGoogleMaps = true
-    googleMapsApiKey = "AIzaSyAv7Sza8NSp9_l_g8G2vlo0H4ydEPn_2jY"
+    enableGoogleMaps = false
+    googleMapsApiKey = ""
 
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = ""
+    longitude = ""
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "custom" 
@@ -140,8 +140,8 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "<p>Distribuidor de productos farmacéutico en todas las Islas Canarias </p>"
+    copyright = "Copyright (c) 2022, MH&P; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -149,18 +149,18 @@ pluralizelisttitles = false
     dropdown_mouse_over = false
 
     disabled_logo = false
-    logo_text = "Universal"
+    logo_text = ""
 
-    logo = "img/logo(3).png"
-    logo_small = "img/logo(1).png"
+    logo = "img/mhplogo.png"
+    logo_small = "img/mhplogo_small.png"
     contact_url = "/contact"
-    address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+    address = """<p class="text-uppercase"><strong>Pedro Melian Peña</strong>
+        <br>C/Ramón Trujillo Torres,3
+        <br>38007 S/c de Tenerife
+        <br>Tel: 667 784 449
+        <br>pedro.melian@melhealthandpharm.com
         <br>
-        <strong>Great Britain</strong>
+        <strong></strong>
       </p>
       """
 
@@ -169,7 +169,7 @@ pluralizelisttitles = false
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
+    enable = false
     text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
       <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
@@ -212,11 +212,11 @@ pluralizelisttitles = false
 
 
 [params.see_more]
-    enable = false
+    enable = true
     icon = "far fa-file-alt"
-    title = "Nuestos Productos"
-    subtitle = "Trabajamos con diversos productos para el tratamiento de diversas dolencias"
-    link_url = "/productos/"
+    title = "¿Quieren trabajar con nosotros?"
+    subtitle = "Buscamos laboratorios comprometidos con la calidad, innovación y experiencia en el mercado para establecer relaciones a largo plazo y brindar el mejor servicio a nuestros clientes."
+    link_url = "/contact/"
     link_text = "Saber más"
 
 [params.clients]
@@ -228,7 +228,7 @@ pluralizelisttitles = false
     subtitle =""
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "Distribución"
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
     hide_summary = false
