@@ -20,3 +20,4 @@ Nuestro equipo comercial cuenta con una formación académica superior y una amp
 Como distribuidor farmacéutico en todo el Archipiélago, buscamos constantemente crecer y evolucionar de la mano de nuestros clientes y proveedores, manteniendo siempre la filosofía de satisfacción del consumidor final en todos nuestros productos y servicios.
 
 ¡Confíe en Melhealthandpharm para sus necesidades de distribución farmacéutica!
+

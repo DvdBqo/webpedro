@@ -50,9 +50,9 @@ pluralizelisttitles = false
 
 
 [[menu.main]]
-    identifier = "contact"
-    name       = "Contact"
-    url        = "/contact/"
+    identifier = "contacto"
+    name       = "Contacto"
+    url        = "/contacto/"
     weight     = 5
 
 
