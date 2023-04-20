@@ -3,9 +3,11 @@ title = "Quines Somos"
 tags = [""]
 categories = [""]
 authors = ["David Baquero"]
-imagen1= "/img/mhp1.png"
-id = "qui"
+img = "/img/imagen/logoalch11.png"
+
 +++
+
+{{<forma imagen="/img/mhp1.png" padding="50px">}}
 
 ## Sobre la empresa 
 
@@ -14,3 +16,5 @@ id = "qui"
 Desde el primer día, nuestra filosofía ha sido cumplir con los regímenes de satisfacción del consumidor final. Por ello, nos aseguramos de que cualquier producto de nuestra empresa cumpla con los más altos estándares de calidad.
 
 Nos enorgullece ofrecer exclusividad y valor a los laboratorios con los que colaboramos, así como una solución inmediata a todos nuestros clientes. En Melhealthandpharm, estamos comprometidos con la introducción de un nuevo concepto de empresa distribuidora del sector farmacéutico.
+
+{{</forma>}}

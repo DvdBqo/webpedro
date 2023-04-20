@@ -1,0 +1,13 @@
+<div class="container">
+    <section>
+      <div class="row">
+        <div class="col-xs-12 col-sm-6">
+            <img src="{{ .Get "imagen" }}" class="img-responsive" alt="Imagen 1">
+        </div>
+        <div class="col-xs-12 col-sm-6 text-center text-justify" style="padding-top: {{ .Get "padding" }};">
+            {{ .Inner | markdownify }}
+            
+        </div>
+      </div>
+    </section>
+  </div>
