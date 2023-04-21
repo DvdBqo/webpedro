@@ -6,10 +6,12 @@ categories = [""]
 description = ""
 authors = ["David Baquero"]
 imagen1= "/img/imagen/banner-1.jpg"
-id = "qui"
 +++
 
+{{<forma imagen= "/img/imagen/banner-1.jpg" >}}
+
 ## Distribuidor farmacéutico - Melhealthandpharm
+
 
 En Melhealthandpharm ofrecemos un servicio de distribución farmacéutica integral, con entregas rápidas en 24-48 horas en función de la localización del cliente.
 
@@ -21,3 +23,4 @@ Como distribuidor farmacéutico en todo el Archipiélago, buscamos constantement
 
 ¡Confíe en Melhealthandpharm para sus necesidades de distribución farmacéutica!
 
+{{</forma>}}

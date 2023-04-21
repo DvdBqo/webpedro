@@ -18,3 +18,38 @@ Desde el primer día, nuestra filosofía ha sido cumplir con los regímenes de s
 Nos enorgullece ofrecer exclusividad y valor a los laboratorios con los que colaboramos, así como una solución inmediata a todos nuestros clientes. En Melhealthandpharm, estamos comprometidos con la introducción de un nuevo concepto de empresa distribuidora del sector farmacéutico.
 
 {{</forma>}}
+
+{{<content>}}
+
+ {{<row>}}
+
+
+   {{<cols col="col-xs-12 col-sm-2 text-center text-justify" >}}
+   *Nos* enorgullece ofrecer exclusividad y valor a los laboratorios con los que colaboramos, así como una solución inmediata a todos nuestros clientes. En Melhealthandpharm, estamos comprometidos con la introducción de un nuevo concepto de empresa distribuidora del sector farmacéutico.
+
+   {{</cols>}}
+
+   {{<cols col="col-xs-12 col-sm-2 text-center text-justify" >}}
+
+
+    *Nos* enorgullece ofrecer exclusividad y valor a los laboratorios con los que colaboramos, así como una solución inmediata a todos nuestros clientes. En Melhealthandpharm, estamos comprometidos con la introducción de un nuevo concepto de empresa distribuidora del sector farmacéutico.
+
+
+   {{</cols>}}
+
+   {{<cols col="col-xs-12 col-sm-2 text-center text-justify" >}}
+{{<markdown>}}
+
+    *Nos* enorgullece ofrecer exclusividad y valor a los laboratorios con los que colaboramos, así como una solución inmediata a todos nuestros clientes. En Melhealthandpharm, estamos comprometidos con la introducción de un nuevo concepto de empresa distribuidora del sector farmacéutico.
+{{</markdown>}}
+
+   {{</cols>}}
+
+
+
+ {{</row>}}
+ 
+{{</content>}} 
+
+
+
