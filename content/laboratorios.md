@@ -23,7 +23,7 @@ En nuestro compromiso de ofrecer productos de calidad, trabajamos en constante e
 
 ## Nuestros Colaboradores
 
-{{<forma imagen="/img/imagen/logoalch11.png" padding="30px">}}
+{{<forma imagen="/img/clients/logoalch111.png" padding="30px">}}
 
 AlchemLife es una empresa que se dedica a la producción y venta de suplementos alimenticios y productos de salud natural. En su página web, ofrecen información detallada sobre sus productos y los ingredientes que los componen, así como estudios clínicos que respaldan su eficacia.
 
@@ -33,7 +33,7 @@ AlchemLife se asegura de que sus productos sean fabricados utilizando técnicas 
 
 {{</forma>}}
 
-{{<forma imagen="/img/imagen/33(1).png" padding="">}}
+{{<forma imagen="/img/clients/333(1).png" padding="">}}
 
 Sensualintim es una tienda en línea que se enfoca en proporcionar productos de alta calidad y recursos informativos para mejorar la salud y el bienestar sexual.Se especializa en productos de higiene íntima, incluyendo copas menstruales, bolas pélvicas y kits de salud íntima.
 
