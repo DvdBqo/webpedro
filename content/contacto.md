@@ -3,6 +3,7 @@ title = "Contacto"
 id = "contact"
 +++
 
+{{<tex sty="sans-serif" size="1.2em">}}
 # ¿Les gustaría trabajar con nosotros?
 
 Nos encanta trabajar con proveedores de materias primas y fabricantes de productos farmacéuticos de alta calidad. Si estás interesado en convertirte en un proveedor o fabricante asociado, por favor ponte en contacto con nosotros a través del formulario de contacto en nuestro sitio web o mediante correo electrónico directamente a nuestra dirección de contacto.

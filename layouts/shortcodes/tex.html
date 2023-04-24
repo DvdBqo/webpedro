@@ -1,6 +1,5 @@
+<div style="font-family: {{ .Get "sty" }}; font-size: {{ .Get "size" }};">
 
-<div style="font-family: {{ .Get "sty" }};" >
-
-    {{ .Inner  }}
+    {{ .Inner | markdownify }}
                 
 </div>
