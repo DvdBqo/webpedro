@@ -15,18 +15,16 @@ authors = ["David Baquero"]
 
 {{<content>}}
 {{<row>}}
-{{<cols col="col-xs-13 col-sm-4 text-center">}}
-{{<markdown>}}
+{{<cols col="col-sm-12 col-md-6 text-center">}}
 
-![image](/img/pack1.png)
+<img src="/img/pack1.png" alt="image" style="max-width: 100%; height: auto;">
 
-{{</markdown>}}
 {{</cols>}}
 
-{{<cols col="col-xs-13 col-sm-2 text-center" >}}
+{{<cols col="col-xs-12 col-sm-2 text-center" >}}
 {{</cols>}}
 
-{{<cols col="col-xs-13 col-sm-5 text-justify" padding="90px">}}
+{{<cols col="col-sm-12 col-md-5 text-justify" padding="90px">}}
 {{<tex sty="sans-serif" size="1.2em">}}
   
 En Melhealthandpharm ofrecemos un servicio de distribución farmacéutica integral, con entregas rápidas en 24-48 horas en función de la localización del cliente.
@@ -41,7 +39,7 @@ Además, nos enfocamos en poner en valor cada uno de nuestros productos a travé
 
 {{<content>}}
 {{<row>}}
-{{<cols col="col-xs-13 col-sm-5 text-justify" padding="60px">}}
+{{<cols col="col-sm-6 col-md-5 text-justify" padding="20px">}}
 {{<tex sty="sans-serif" size="1.2em">}}
 
 Nuestro equipo comercial cuenta con una formación académica superior y una amplia experiencia en el sector, lo que nos permite ofrecer a nuestros clientes detalles técnicos y conceptos de vanguardia en el mercado.
@@ -52,15 +50,13 @@ Como distribuidor farmacéutico en todo el Archipiélago, buscamos constantement
 {{</tex>}} 
 {{</cols>}}
 
-{{<cols col="col-xs-13 col-sm-1 text-center" >}}
+{{<cols col="col-sm-13 col-sm-1 text-center" >}}
 {{</cols>}}
    
-{{<cols col="col-xs-13 col-sm-3 text-center" >}}
-{{<markdown>}}
+{{<cols col="col-sm-6 col-md-6 text-center" >}}
   
-![image](/img/experto.png)
-   
-{{</markdown>}}   
+<img src="/img/experto.png" alt="image" style="max-width: 100%; height: auto;">
+ 
 {{</cols>}}
 {{</row>}}
 {{</content>}}

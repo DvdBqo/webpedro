@@ -14,18 +14,18 @@ img = "/img/imagen/logoalch11.png"
 {{<content>}}
   {{<row>}}
    
-  {{<cols col="col-xs-12 col-sm-6 text-center" >}}
+  {{<cols col="col-sm-12 col-md-6 text-center" >}}
   
-  {{<markdown>}}
 
-  ![image](/img/mhp1.png)
 
-  .{{</markdown>}}
+<img src="/img/mhp1.png" alt="image" style="max-width: 100%; height: auto;">
+
+
 
    {{</cols>}}
    
 
-   {{<cols col="col-xs-12 col-sm-6 text-center text-justify" padding="50px">}}
+   {{<cols col="col-sm-12 col-md-6 text-center text-justify" padding="50px">}}
    {{<tex sty="sans-serif" size="1.2em">}}
 
   **Melhealthandpharm** es una empresa fundada en el año 2022 por Pedro Daniel Melian Peña con el objetivo de crear una red de distribución de productos y servicios farmacéuticos de alta calidad que aporten practicidad, efectividad y rentabilidad tanto a laboratorios como a farmacias.

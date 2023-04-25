@@ -19,7 +19,9 @@ En nuestro compromiso de ofrecer productos de calidad, trabajamos en constante e
 
 {{<for_lab>}}
  
- ## Nuestros Colaboradores
+
+# Nuestros Colaboradores
+
 
 
 [![image](/img/clients/logoalch111.png)](https://www.alchemlife.es/)
