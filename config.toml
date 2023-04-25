@@ -153,7 +153,7 @@ pluralizelisttitles = false
 
     logo = "img/mhplogo.png"
     logo_small = "img/mhplogo_small.png"
-    contact_url = "/contact"
+    contact_url = "/contacto"
     address = """<p class="text-uppercase"><strong>Pedro Melian Peña</strong>
         <br>C/Ramón Trujillo Torres,3
         <br>38007 S/c de Tenerife
