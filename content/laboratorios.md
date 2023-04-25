@@ -24,16 +24,15 @@ En nuestro compromiso de ofrecer productos de calidad, trabajamos en constante e
 
 
 
-[![image](/img/clients/logoalch111.png)](https://www.alchemlife.es/)
 
 {{</for_lab>}}
 
 
 {{<for_lab>}}
 
-   AlchemLife es una empresa que se dedica a la producción y venta de suplementos alimenticios y productos de salud natural. En su página web, ofrecen información detallada sobre sus productos y los ingredientes que los componen, así como estudios clínicos que respaldan su eficacia.
+[![image](/img/clients/logoalch111.png)](https://www.alchemlife.es/)
 
-   Sus productos se componen de ingredientes cuidadosamente seleccionados, incluyendo hierbas, especias y otros elementos naturales, como el jengibre, la cúrcuma y la canela, que se han utilizado durante siglos en todo el mundo para ayudar a mejorar la salud y el bienestar. 
+   AlchemLife es una empresa que se dedica a la producción y venta de suplementos alimenticios y productos de salud natural. Sus productos se componen de ingredientes cuidadosamente seleccionados, incluyendo hierbas, especias y otros elementos naturales, como el jengibre, la cúrcuma y la canela, que se han utilizado durante siglos en todo el mundo para ayudar a mejorar la salud y el bienestar. 
    
    [**Saber más**](https://www.alchemlife.es/)
 
@@ -41,16 +40,16 @@ En nuestro compromiso de ofrecer productos de calidad, trabajamos en constante e
 
 {{<for_lab>}}
 
-[![image](/img/clients/333(1).png)](https://sensualintim.com/)
+
    
 
 {{</for_lab>}}
 
 {{<for_lab>}}
 
-  Sensualintim es una tienda en línea que se enfoca en proporcionar productos de alta calidad y recursos informativos para mejorar la salud y el bienestar sexual.Se especializa en productos de higiene íntima, incluyendo copas menstruales, bolas pélvicas y kits de salud íntima.
-    
-  La copa menstrual es uno de los productos destacados de Sensualintim, ya que es una alternativa ecológica y reutilizable a los productos tradicionales de higiene femenina. Fabricadas con silicona de grado médico, las copas menstruales son cómodas y convenientes para muchas mujeres, ya que pueden durar hasta 12 horas antes de necesitar ser vaciadas y se pueden reutilizar durante varios años.
+[![image](/img/clients/333(1).png)](https://sensualintim.com/)
+
+  Sensualintim produce kits de salud e higiene íntima, incluyendo copas menstruales y bolas pélvicas. La copa menstrual es uno de los productos destacados de Sensualintim, ya que es una alternativa ecológica y reutilizable a los productos tradicionales de higiene femenina. Fabricadas con silicona de grado médico, las copas menstruales son cómodas y convenientes para muchas mujeres, ya que pueden durar hasta 12 horas antes de necesitar ser vaciadas y se pueden reutilizar durante varios años.
 
   [**Saber más**](https://www.alchemlife.es/)
 
