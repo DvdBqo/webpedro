@@ -1,7 +1,7 @@
 baseurl = "https://github.com/DvdBqo/webpedro" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Melhealthandpharm"
 theme = ""
-themesDir = "/home/bqo/PedroWeb/themes/hugo-universal-theme"
+themesDir = "/themes/hugo-universal-theme"
 languageCode = "es"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "es"
