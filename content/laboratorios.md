@@ -1,10 +1,11 @@
 +++
 title = "Laboratorios"
-date = "2015-09-17T13:47:08+02:00"
+date = ""
 tags = [""]
 categories = [""]
 
 +++
+
 {{<tex sty="sans-serif" size="1.2em">}}
 # Laboratorios - Melhealthandpharm
 

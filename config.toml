@@ -121,7 +121,7 @@ pluralizelisttitles = false
     #
     # Enable the contact form by entering your Formspree.io endpoint url
     formspree_action = "https://formspree.io/sample/of/endpoint"
-    contact_form_ajax = false
+    contact_form_ajax = true
 
     # Formspree form supports Google reCAPTCHA Key (type v2).
     # If you use this feature, you should enable reCAPTCHA feature in the Formspree dashboard.
@@ -178,9 +178,9 @@ pluralizelisttitles = false
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    categories = true
-    tags = true
-    search = true
+    categories = false
+    tags = false
+    search = false
 
 [params.carouselCustomers]
     items = 2
